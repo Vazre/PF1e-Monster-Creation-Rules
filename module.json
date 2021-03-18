@@ -10,11 +10,11 @@
 		"entity": "Item",
 		"name": "monster-classes-for-creation",
 		"path": "./packs/monster-classes-for-monster-creation.db",
-		"system": "pf1e",
+		"system": "pf1",
 		"package": "pf1e-monster-classes"
 	}
 	],
-	"systems": ["pf1e"],
+	"systems": ["pf1"],
 		"minimumCoreVersion": "0.7.9",
 		"compatibleCoreVersion": "0.7.9",
 		"url": "https://github.com/Vazre/PF1e-Monster-Creation-Rules.git",
