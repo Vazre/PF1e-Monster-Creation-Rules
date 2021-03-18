@@ -1,0 +1,23 @@
+{
+	"name": "pf1e-monster-classes",
+	"title": "Pathfinder Monster Classes for Monster Creation",
+	"description": "Compendium containing classes from the Monster Creation Rules.",
+	"version": "1.0",
+	"author": "Vazre",
+	"packs": [
+	{
+		"label": "Monster Classes",
+		"entity": "Item",
+		"name": "monster-classes-for-creation",
+		"path": "./packs/monster-classes-for-monster-creation.db",
+		"system": "pf1e",
+		"package": "pf1e-monster-classes"
+	}
+	]
+	"systems": ["pf1e"],
+		"minimumCoreVersion": "0.77.18",
+		"compatibleCoreVersion": "0.77.18",
+		"url": "https://github.com/Vazre/PF1e-Monster-Creation-Rules.git",
+		"manifest": "https://github.com/Vazre/PF1e-Monster-Creation-Rules/master/module.json",
+		"download": "https://github.com/Vazre/PF1e-Monster-Creation-Rules/master/module.zip"
+}
